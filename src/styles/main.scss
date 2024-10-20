@@ -1,3 +1,15 @@
-body {
-  margin: 0;
-}
+@import "./block/page";
+@import "utils";
+@import "./block/header";
+@import "./block/menu";
+@import "./block/icon";
+@import "./block/nav";
+@import "./block/schedule";
+@import "./block/tickets";
+@import "./block/main";
+@import "./block/actual";
+@import "./block/galery";
+@import "./block/about-us";
+@import "./block/form";
+@import "./block/contacts";
+@import "./block/footer";
